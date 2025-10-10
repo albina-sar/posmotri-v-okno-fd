@@ -315,11 +315,11 @@ ol {
 }
 
 .content__card-link_current {
-  background-color: black;
+  background-color: white;
 }
 
 .content__card-link:active {
-  background-color: black;
+  background-color: white;
 }
 
 .content__list-item:hover {
